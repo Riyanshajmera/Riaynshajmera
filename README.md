@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Riyansh Ajmera
 
-🎓 I’ve completed my **Bachelor of Computer Applications (BCA)**  
+🎓 Currently pursuing my **Master of Computer Applications (MCA)**  
 💡 Passionate about technology, development, and continuous learning  
-📌 Currently exploring Web Development, Data Structures, and Open Source  
+📌 Exploring Web Development, Data Structures, and Open Source  
 
 ---
 
@@ -25,11 +25,9 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn link here]
-- Portfolio: [Your Portfolio link if available]
-- Email: [Your email address]
+- LinkedIn: [Riyansh Ajmera](https://www.linkedin.com/in/riyansh-ajmera)
+- Email: [ajmerariyansh17@gmail.com](mailto:ajmerariyansh17@gmail.com)
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
-
+> "Every line of code is a step closer to turning ideas into reality." – Riyansh Ajmera
