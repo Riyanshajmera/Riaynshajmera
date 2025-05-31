@@ -17,14 +17,6 @@
 ---
 
 
-## 📈 GitHub Stats
-
-![Riyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyanshajmera&show_icons=true&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanshajmera&layout=compact&theme=vue)
-
-
----
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Riyansh Ajmera](https://www.linkedin.com/in/riyansh-ajmera)
